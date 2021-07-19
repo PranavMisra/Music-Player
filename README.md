@@ -1,3 +1,3 @@
 Music Player
-It is a music player project deeloped using HTML and CSS and is responsive to differnet screen sizes.
+It is a responsive music player project developed using HTML and CSS.
 it contains an index page and a playlist page.
